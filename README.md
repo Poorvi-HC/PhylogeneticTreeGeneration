@@ -1,4 +1,4 @@
-# Intro To biology
+# Phylogenetic Tree Generator
 ## Poorvi H C
 
 ## The given folder has programs as follows:
@@ -41,4 +41,5 @@ The `Output` folder contains the Output .csv files, while the `Phylogenetic Tree
  2. Run all the cells in `Ndistance.ipynb`. 
  3. After it is done running, run `python UPGMA_RNA.py`, if using a conda environment or runrun `python3 UPGMA_RNA.py` . The phylogenetic tree will be printed in the terminal.
  4. Similarly, run the respective files in the same format as shown above.
+
 
